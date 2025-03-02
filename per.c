@@ -16,4 +16,4 @@ int main(){
 int prct(int a,int b){
   int prim=2*(a+b);
   return prim;
-}
+}//end
